@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hudaiapa88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hudaiapa88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhvanM3NGthdWhrYXNjcHB0a2QyZG1xem5ydTQ0d3FqY2w5aGtydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l9djv4JuDTSr1Rj4wl/giphy.gif"  />
 
 ###
@@ -55,6 +62,18 @@
   <a href="https://www.linkedin.com/in/hudai-apa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/hudaiapa88/hudaiapa88/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="156" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB2dDlreDNwazMxNTdmMDZucWgwNTVhMWpvaDQ3b256d2xiOHM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FJqjv2TLdfqxPlZJRi/source.gif"  />
 </div>
 
 ###
